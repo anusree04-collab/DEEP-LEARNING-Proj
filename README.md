@@ -9,10 +9,11 @@ The model is trained on a multi-class fruit dataset and predicts the fruit categ
 ---
 
  Problem Statement
-
+--
 Develop a CNN-based image classification model to accurately detect and classify different fruit types from images.
 
 Target:
+--
 - Fruit Category (e.g., Apple, Banana, Orange,  etc.)
 
 ---
@@ -32,7 +33,7 @@ Images are resized and normalized before training.
 ---
 
 Model Architecture
-
+--
 The CNN architecture consists of:
 
 - Convolutional Layers (Conv2D)
@@ -45,7 +46,7 @@ The CNN architecture consists of:
 ---
 
 Technologies Used
-
+--
 - Python
 - TensorFlow / Keras (or PyTorch if used)
 - NumPy
@@ -55,7 +56,7 @@ Technologies Used
 ---
 
  Project Workflow
-
+--
 1. Data Collection & Preprocessing  
 2. Image Resizing & Normalization  
 3. Train-Test Split  
@@ -66,7 +67,7 @@ Technologies Used
 ---
 
  Evaluation Metrics
-
+--
 - Accuracy
 - Confusion Matrix
 - Classification Report
@@ -75,7 +76,7 @@ Technologies Used
 ---
 
  How to Run the Project
-
+--
  Install Dependencies
 
 
@@ -97,7 +98,7 @@ python predict.py
 ---
 
  Applications
-
+--
 - Smart grocery systems
 - Agricultural automation
 - Food quality inspection
@@ -106,5 +107,5 @@ python predict.py
 ---
 
  Domain
-
+--
 Deep Learning | Computer Vision | Multi-Class Image Classification
