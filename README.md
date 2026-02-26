@@ -84,13 +84,13 @@ pip install tensorflow numpy matplotlib opencv-python
 
  Train the Model
 
-bash
+
 python train.py
 
 
  Predict on New Image
 
-bash
+
 python predict.py
 
 
@@ -105,6 +105,6 @@ python predict.py
 
 ---
 
-## 📚 Domain
+ Domain
 
 Deep Learning | Computer Vision | Multi-Class Image Classification
